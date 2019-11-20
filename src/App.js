@@ -45,7 +45,7 @@ class App extends Component {
           id: Date.now()
         }
       ]
-    }))
+    }))  
   }
 
   // removeTimer updates state, removing any timer that matches the provided author
